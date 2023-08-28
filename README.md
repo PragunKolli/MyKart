@@ -1,6 +1,5 @@
 # Full Stack E-commerce Website using MERN Stack technology
-We, Saurav Deshmukh and Kirti Choudhary, two 4th Year Undergraduate students from the Indian Institute of Technology, Kharagpur, have collaboratively developed an E-commerce website as a part of our group project. Our goal is to create an efficient online shopping platform using MERN stack technology.
-
+We, Saurav Deshmukh, Kirti Choudhary, and Pragun Sai Kolli, three 4th Year Undergraduate students from the Indian Institute of Technology, Kharagpur, have collaboratively developed an E-commerce website as a part of our group project. Our goal is to create an efficient online shopping platform using MERN stack technology.
 # Install Dependencies
 There are two folders in the project, one for backend and other for the frontend. Install dependencies for each separately using following commands starting from the root directory on command terminal 
 **For Backend** - `npm i`
